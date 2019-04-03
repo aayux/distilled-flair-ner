@@ -12,4 +12,4 @@ Distilled NER model from Zolando Research using Neural Network Distillation
 
 ![Network compression on the NER model][weights]
 
-[weights]: https://github.com/aayux/distilled-flair-ner/tree/master/imgs/weights.png "Network compression on the NER model"
+[weights]: https://raw.githubusercontent.com/aayux/distilled-flair-ner/master/imgs/weights.png "Network compression on the NER model"
