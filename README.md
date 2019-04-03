@@ -1,5 +1,5 @@
 ## Distiller × Flair NER
--------------------------
+
 Distilled NER model from Zolando Research using Neural Network Distillation
 
 ### Sources:
